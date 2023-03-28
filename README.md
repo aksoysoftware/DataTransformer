@@ -1,6 +1,7 @@
 Object Data Transformer
 
 ---->Nesne yönelimli programlama (OOP) kavramları: Bu kod örnekleri, OOP'nin temellerini gösterir. 
+
 ---->Dosya işlemleri: Bu kod örnekleri, dosya okuma ve yazma işlemleri için Java'nın temel sınıflarını kullanıldı.
 
 ---->ProductConverter sınıfını kullanarak bir Product nesnesinin metin biçimine dönüştürülebileceğini ve aynı şekilde bir metin satırının bir
